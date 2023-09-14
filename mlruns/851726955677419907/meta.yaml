@@ -1,0 +1,6 @@
+artifact_location: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/851726955677419907
+creation_time: 1688116702403
+experiment_id: '851726955677419907'
+last_update_time: 1688116702403
+lifecycle_stage: active
+name: Random Forest with Cross Validation

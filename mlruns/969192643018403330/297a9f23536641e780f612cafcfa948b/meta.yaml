@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/297a9f23536641e780f612cafcfa948b/artifacts
+end_time: 1686908589180
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 297a9f23536641e780f612cafcfa948b
+run_name: debonair-fish-269
+run_uuid: 297a9f23536641e780f612cafcfa948b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908587797
+status: 3
+tags: []
+user_id: dorian

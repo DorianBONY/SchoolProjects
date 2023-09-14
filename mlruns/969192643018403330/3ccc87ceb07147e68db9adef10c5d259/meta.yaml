@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/3ccc87ceb07147e68db9adef10c5d259/artifacts
+end_time: 1686910128340
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 3ccc87ceb07147e68db9adef10c5d259
+run_name: clumsy-tern-711
+run_uuid: 3ccc87ceb07147e68db9adef10c5d259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910105436
+status: 3
+tags: []
+user_id: dorian

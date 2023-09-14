@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title%}Home{% endblock %}
+
+{% block content %}
+    <link rel="stylesheet" base href="./static/home.css"/>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 text-left">
+                <h1 class="title">Application de ciblage des sociétés</h1>
+                <h2 class="left-heading">Qu'est-ce que c'est ?</h2>
+                <p class="left-paragraph">Comme le titre l'indique, c'est une application permettant de réaliser du ciblage sur des sociétés.</p>
+                <h2 class="left-heading">Pour qui est cet outil ?</h2>
+                <p class="left-paragraph">Pour un client de la société de mon alternance (Owlnext), ayant un service facilitant les transactions à l'international.</p>
+                <h2 class="left-heading">Comment ça fonctionne ?</h2>
+                <p class="left-paragraph">A l'aide de l'intelligence artificielle, un algorithme a été utilisé pour entraîner un modèle sur des données afin qu'il puisse prédire si une société est susceptible d'utiliser un service ou non.</p>
+                <h2 class="left-heading">Est-ce fiable ?</h2>
+                <p class="left-paragraph">Le modèle en lui même est fiable. De très bon résultats ont été obtenus avec. Cependant, ça reste un outil d'aide à la décision, beaucoup de facteurs ne peuvent pas être pris en compte dans l'entraînement. Il est déconseillé de se reposer uniquement sur ce que nous dit l'intelligence artificielle.</p>
+                <img src="https://www.journalactionpme.com/wp-content/uploads/2019/07/cibler-clients.jpg" class="center-image" alt="Image">
+            </div>
+        </div>
+    </div>
+{% endblock %}

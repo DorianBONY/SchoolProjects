@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/b5a1494cd47a4d66b940fda86436a360/artifacts
+end_time: 1686909089143
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: b5a1494cd47a4d66b940fda86436a360
+run_name: serious-finch-34
+run_uuid: b5a1494cd47a4d66b940fda86436a360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909087478
+status: 3
+tags: []
+user_id: dorian

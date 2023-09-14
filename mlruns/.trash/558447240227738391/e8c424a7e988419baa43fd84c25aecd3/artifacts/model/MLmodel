@@ -1,0 +1,23 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.1
+mlflow_version: 2.3.2
+model_uuid: c78d06ecd2ff4b26a3dedef4c629e7b0
+run_id: e8c424a7e988419baa43fd84c25aecd3
+signature:
+  inputs: '[{"name": "category", "type": "long"}, {"name": "nb_etablishment_actif",
+    "type": "long"}, {"name": "judgements", "type": "long"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int32", "shape": [-1]}}]'
+utc_time_created: '2023-05-29 10:08:53.064349'

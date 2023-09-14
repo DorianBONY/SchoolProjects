@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/d5dbf427f1fb44cba914e9b4dce3cca2/artifacts
+end_time: 1686909969871
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: d5dbf427f1fb44cba914e9b4dce3cca2
+run_name: abrasive-chimp-25
+run_uuid: d5dbf427f1fb44cba914e9b4dce3cca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909946661
+status: 3
+tags: []
+user_id: dorian

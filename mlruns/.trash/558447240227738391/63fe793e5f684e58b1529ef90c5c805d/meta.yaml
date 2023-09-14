@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/558447240227738391/63fe793e5f684e58b1529ef90c5c805d/artifacts
+deleted_time: 1686557982537
+end_time: 1685355148105
+entry_point_name: ''
+experiment_id: '558447240227738391'
+lifecycle_stage: deleted
+run_id: 63fe793e5f684e58b1529ef90c5c805d
+run_name: kmeans_default
+run_uuid: 63fe793e5f684e58b1529ef90c5c805d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685355144679
+status: 3
+tags: []
+user_id: dorian

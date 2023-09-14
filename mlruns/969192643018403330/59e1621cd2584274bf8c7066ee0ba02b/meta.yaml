@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/59e1621cd2584274bf8c7066ee0ba02b/artifacts
+end_time: 1686909969738
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 59e1621cd2584274bf8c7066ee0ba02b
+run_name: nebulous-roo-456
+run_uuid: 59e1621cd2584274bf8c7066ee0ba02b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909946661
+status: 3
+tags: []
+user_id: dorian

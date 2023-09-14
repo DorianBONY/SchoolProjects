@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/0e57ee207a924d789b72eda53607021a/artifacts
+end_time: 1686915273956
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 0e57ee207a924d789b72eda53607021a
+run_name: monumental-ray-481
+run_uuid: 0e57ee207a924d789b72eda53607021a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686915272528
+status: 3
+tags: []
+user_id: dorian

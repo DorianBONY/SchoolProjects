@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/62ab68cec599439b87c52afab7c8546e/artifacts
+end_time: 1686909068384
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 62ab68cec599439b87c52afab7c8546e
+run_name: sedate-trout-444
+run_uuid: 62ab68cec599439b87c52afab7c8546e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909066976
+status: 3
+tags: []
+user_id: dorian

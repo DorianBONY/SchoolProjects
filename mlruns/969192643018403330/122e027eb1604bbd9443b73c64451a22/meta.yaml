@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/122e027eb1604bbd9443b73c64451a22/artifacts
+end_time: 1686909438637
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 122e027eb1604bbd9443b73c64451a22
+run_name: incongruous-seal-262
+run_uuid: 122e027eb1604bbd9443b73c64451a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909437271
+status: 3
+tags: []
+user_id: dorian

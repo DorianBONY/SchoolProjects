@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/878367770543549134/6cd6bad86ef345e8a4d18ab6c3041f4b/artifacts
+end_time: 1688117745222
+entry_point_name: ''
+experiment_id: '878367770543549134'
+lifecycle_stage: active
+run_id: 6cd6bad86ef345e8a4d18ab6c3041f4b
+run_name: stately-goat-859
+run_uuid: 6cd6bad86ef345e8a4d18ab6c3041f4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688117034746
+status: 3
+tags: []
+user_id: dorian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/0577151c833442fb83c12ccde46ac38e/artifacts
+end_time: 1686662684552
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 0577151c833442fb83c12ccde46ac38e
+run_name: bedecked-robin-281
+run_uuid: 0577151c833442fb83c12ccde46ac38e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686662682767
+status: 3
+tags: []
+user_id: dorian

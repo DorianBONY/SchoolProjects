@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/f0caddd7d5e6435ea6cbb80c8e5e32fb/artifacts
+end_time: 1687863476294
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: f0caddd7d5e6435ea6cbb80c8e5e32fb
+run_name: orderly-moose-929
+run_uuid: f0caddd7d5e6435ea6cbb80c8e5e32fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687863437709
+status: 3
+tags: []
+user_id: dorian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/fa3e880d9f3e42878cb4f76557779878/artifacts
+end_time: 1686915272421
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: fa3e880d9f3e42878cb4f76557779878
+run_name: angry-lynx-892
+run_uuid: fa3e880d9f3e42878cb4f76557779878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686915270995
+status: 3
+tags: []
+user_id: dorian

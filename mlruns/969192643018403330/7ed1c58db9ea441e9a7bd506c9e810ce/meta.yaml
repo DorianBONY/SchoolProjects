@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/7ed1c58db9ea441e9a7bd506c9e810ce/artifacts
+end_time: 1686908530090
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 7ed1c58db9ea441e9a7bd506c9e810ce
+run_name: invincible-crow-795
+run_uuid: 7ed1c58db9ea441e9a7bd506c9e810ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908528725
+status: 3
+tags: []
+user_id: dorian

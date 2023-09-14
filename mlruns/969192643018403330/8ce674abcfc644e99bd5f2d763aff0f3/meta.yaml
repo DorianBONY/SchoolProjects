@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/8ce674abcfc644e99bd5f2d763aff0f3/artifacts
+end_time: 1686909122840
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 8ce674abcfc644e99bd5f2d763aff0f3
+run_name: sincere-elk-68
+run_uuid: 8ce674abcfc644e99bd5f2d763aff0f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909121432
+status: 3
+tags: []
+user_id: dorian

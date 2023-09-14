@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/a22fa58bdbad4cbaa5a3c6238d6837aa/artifacts
+end_time: 1687863388309
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: a22fa58bdbad4cbaa5a3c6238d6837aa
+run_name: youthful-owl-784
+run_uuid: a22fa58bdbad4cbaa5a3c6238d6837aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687863386893
+status: 3
+tags: []
+user_id: dorian

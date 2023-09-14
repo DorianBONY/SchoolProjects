@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/558447240227738391/1fdd2e924a2546cc942503fe32d9a109/artifacts
+deleted_time: 1686557982537
+end_time: 1685354768038
+entry_point_name: ''
+experiment_id: '558447240227738391'
+lifecycle_stage: deleted
+run_id: 1fdd2e924a2546cc942503fe32d9a109
+run_name: valuable-grub-222
+run_uuid: 1fdd2e924a2546cc942503fe32d9a109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685354762470
+status: 3
+tags: []
+user_id: dorian

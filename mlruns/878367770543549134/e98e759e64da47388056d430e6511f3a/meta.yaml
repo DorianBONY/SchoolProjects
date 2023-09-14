@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/878367770543549134/e98e759e64da47388056d430e6511f3a/artifacts
+end_time: 1688117745222
+entry_point_name: ''
+experiment_id: '878367770543549134'
+lifecycle_stage: active
+run_id: e98e759e64da47388056d430e6511f3a
+run_name: trusting-dog-316
+run_uuid: e98e759e64da47388056d430e6511f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688117034746
+status: 3
+tags: []
+user_id: dorian

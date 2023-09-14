@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/ff1e7e00dca04b959ed53d76b4c2fa95/artifacts
+end_time: 1686909538060
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: ff1e7e00dca04b959ed53d76b4c2fa95
+run_name: delicate-mouse-885
+run_uuid: ff1e7e00dca04b959ed53d76b4c2fa95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909536605
+status: 3
+tags: []
+user_id: dorian

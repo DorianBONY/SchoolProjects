@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/a95ea0de9729423c9d8d8d9d531773d5/artifacts
+end_time: 1686910128340
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: a95ea0de9729423c9d8d8d9d531773d5
+run_name: glamorous-cat-749
+run_uuid: a95ea0de9729423c9d8d8d9d531773d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910105436
+status: 3
+tags: []
+user_id: dorian

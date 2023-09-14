@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/c8d7b7e3e83342c2bea7fadcb648e72e/artifacts
+deleted_time: 1687936253610
+end_time: 1687863820062
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: deleted
+run_id: c8d7b7e3e83342c2bea7fadcb648e72e
+run_name: Decision Tree maxdepth10 gini
+run_uuid: c8d7b7e3e83342c2bea7fadcb648e72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687863799421
+status: 3
+tags: []
+user_id: dorian

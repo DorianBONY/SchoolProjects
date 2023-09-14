@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/977b78135f0740c7a52f5fc8b22f5d4c/artifacts
+end_time: 1686557761954
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 977b78135f0740c7a52f5fc8b22f5d4c
+run_name: judicious-zebra-821
+run_uuid: 977b78135f0740c7a52f5fc8b22f5d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557760432
+status: 3
+tags: []
+user_id: dorian

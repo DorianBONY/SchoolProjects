@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/299059f29dd241308c28d37a76dc3eac/artifacts
+end_time: 1686909012227
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 299059f29dd241308c28d37a76dc3eac
+run_name: gaudy-skink-962
+run_uuid: 299059f29dd241308c28d37a76dc3eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909010774
+status: 3
+tags: []
+user_id: dorian

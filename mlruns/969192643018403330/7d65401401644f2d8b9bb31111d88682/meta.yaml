@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/7d65401401644f2d8b9bb31111d88682/artifacts
+end_time: 1686908470492
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 7d65401401644f2d8b9bb31111d88682
+run_name: wistful-moose-84
+run_uuid: 7d65401401644f2d8b9bb31111d88682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908468930
+status: 3
+tags: []
+user_id: dorian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/fcb869efd8434dfe8c66a5d007ac9b0c/artifacts
+end_time: 1686908191109
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: fcb869efd8434dfe8c66a5d007ac9b0c
+run_name: bright-roo-175
+run_uuid: fcb869efd8434dfe8c66a5d007ac9b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908155923
+status: 3
+tags: []
+user_id: dorian

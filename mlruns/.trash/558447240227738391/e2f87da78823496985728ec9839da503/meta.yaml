@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/558447240227738391/e2f87da78823496985728ec9839da503/artifacts
+deleted_time: 1686557982537
+end_time: 1685354768038
+entry_point_name: ''
+experiment_id: '558447240227738391'
+lifecycle_stage: deleted
+run_id: e2f87da78823496985728ec9839da503
+run_name: puzzled-duck-53
+run_uuid: e2f87da78823496985728ec9839da503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685354762470
+status: 3
+tags: []
+user_id: dorian

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/5131208ee5b5485aa1ccb7416f4f1e1f/artifacts
+deleted_time: 1688631113358
+end_time: 1688629736325
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: deleted
+run_id: 5131208ee5b5485aa1ccb7416f4f1e1f
+run_name: Decision Tree maxdepth10 entropy
+run_uuid: 5131208ee5b5485aa1ccb7416f4f1e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688629715560
+status: 3
+tags: []
+user_id: dorian

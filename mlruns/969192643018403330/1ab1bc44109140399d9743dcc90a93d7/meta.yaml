@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/1ab1bc44109140399d9743dcc90a93d7/artifacts
+end_time: 1686557845430
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 1ab1bc44109140399d9743dcc90a93d7
+run_name: nimble-eel-429
+run_uuid: 1ab1bc44109140399d9743dcc90a93d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557844015
+status: 3
+tags: []
+user_id: dorian

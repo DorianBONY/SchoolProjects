@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/9b678653e9d644dbbc3f8d180c915aa9/artifacts
+end_time: 1686909310962
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 9b678653e9d644dbbc3f8d180c915aa9
+run_name: upset-flea-823
+run_uuid: 9b678653e9d644dbbc3f8d180c915aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909309420
+status: 3
+tags: []
+user_id: dorian

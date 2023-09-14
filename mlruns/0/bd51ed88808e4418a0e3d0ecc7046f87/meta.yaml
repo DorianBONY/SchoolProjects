@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/0/bd51ed88808e4418a0e3d0ecc7046f87/artifacts
+end_time: 1685352871355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd51ed88808e4418a0e3d0ecc7046f87
+run_name: casual-snail-896
+run_uuid: bd51ed88808e4418a0e3d0ecc7046f87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685352868162
+status: 3
+tags: []
+user_id: dorian

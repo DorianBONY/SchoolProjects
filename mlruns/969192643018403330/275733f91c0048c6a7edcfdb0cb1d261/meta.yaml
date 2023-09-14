@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/275733f91c0048c6a7edcfdb0cb1d261/artifacts
+end_time: 1686909764606
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 275733f91c0048c6a7edcfdb0cb1d261
+run_name: monumental-flea-642
+run_uuid: 275733f91c0048c6a7edcfdb0cb1d261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909741818
+status: 3
+tags: []
+user_id: dorian

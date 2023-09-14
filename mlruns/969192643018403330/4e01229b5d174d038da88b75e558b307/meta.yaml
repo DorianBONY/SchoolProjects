@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/4e01229b5d174d038da88b75e558b307/artifacts
+end_time: 1686909969738
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 4e01229b5d174d038da88b75e558b307
+run_name: gifted-shrew-705
+run_uuid: 4e01229b5d174d038da88b75e558b307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909946661
+status: 3
+tags: []
+user_id: dorian

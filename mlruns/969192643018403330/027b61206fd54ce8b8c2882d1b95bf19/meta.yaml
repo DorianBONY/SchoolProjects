@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/027b61206fd54ce8b8c2882d1b95bf19/artifacts
+end_time: 1686557753994
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 027b61206fd54ce8b8c2882d1b95bf19
+run_name: abrasive-sheep-760
+run_uuid: 027b61206fd54ce8b8c2882d1b95bf19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557752509
+status: 3
+tags: []
+user_id: dorian

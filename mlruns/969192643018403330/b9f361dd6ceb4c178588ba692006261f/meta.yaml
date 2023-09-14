@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/b9f361dd6ceb4c178588ba692006261f/artifacts
+end_time: 1686557757321
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: b9f361dd6ceb4c178588ba692006261f
+run_name: beautiful-moth-20
+run_uuid: b9f361dd6ceb4c178588ba692006261f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557755819
+status: 3
+tags: []
+user_id: dorian
