@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/c6465e7f7c8f4f7e911de0cfcf808c0c/artifacts
+end_time: 1686909440156
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: c6465e7f7c8f4f7e911de0cfcf808c0c
+run_name: abundant-kite-754
+run_uuid: c6465e7f7c8f4f7e911de0cfcf808c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909438768
+status: 3
+tags: []
+user_id: dorian

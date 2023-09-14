@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/7953d1ff24bb4ad9b2b30d0c170bd690/artifacts
+end_time: 1687863428406
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 7953d1ff24bb4ad9b2b30d0c170bd690
+run_name: selective-shrimp-74
+run_uuid: 7953d1ff24bb4ad9b2b30d0c170bd690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687863409412
+status: 3
+tags: []
+user_id: dorian

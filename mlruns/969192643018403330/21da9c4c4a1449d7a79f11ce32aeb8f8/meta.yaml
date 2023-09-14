@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/21da9c4c4a1449d7a79f11ce32aeb8f8/artifacts
+end_time: 1686908594663
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 21da9c4c4a1449d7a79f11ce32aeb8f8
+run_name: sedate-sponge-612
+run_uuid: 21da9c4c4a1449d7a79f11ce32aeb8f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908593211
+status: 3
+tags: []
+user_id: dorian

@@ -1,0 +1,6 @@
+artifact_location: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/878367770543549134
+creation_time: 1688117034679
+experiment_id: '878367770543549134'
+last_update_time: 1688117034679
+lifecycle_stage: active
+name: Random Forest with Grid Search

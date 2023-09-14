@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/7bb68738747c41d8b5f3c4e189cdd329/artifacts
+end_time: 1686915270972
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 7bb68738747c41d8b5f3c4e189cdd329
+run_name: charming-fly-816
+run_uuid: 7bb68738747c41d8b5f3c4e189cdd329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686915269570
+status: 3
+tags: []
+user_id: dorian

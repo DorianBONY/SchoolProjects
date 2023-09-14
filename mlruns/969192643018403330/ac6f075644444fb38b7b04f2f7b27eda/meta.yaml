@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/ac6f075644444fb38b7b04f2f7b27eda/artifacts
+end_time: 1686909106451
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: ac6f075644444fb38b7b04f2f7b27eda
+run_name: unleashed-shrew-941
+run_uuid: ac6f075644444fb38b7b04f2f7b27eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909095406
+status: 3
+tags: []
+user_id: dorian

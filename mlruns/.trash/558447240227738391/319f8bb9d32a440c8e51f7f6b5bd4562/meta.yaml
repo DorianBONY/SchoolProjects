@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/558447240227738391/319f8bb9d32a440c8e51f7f6b5bd4562/artifacts
+deleted_time: 1686557982537
+end_time: 1685354768038
+entry_point_name: ''
+experiment_id: '558447240227738391'
+lifecycle_stage: deleted
+run_id: 319f8bb9d32a440c8e51f7f6b5bd4562
+run_name: illustrious-seal-768
+run_uuid: 319f8bb9d32a440c8e51f7f6b5bd4562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685354762470
+status: 3
+tags: []
+user_id: dorian

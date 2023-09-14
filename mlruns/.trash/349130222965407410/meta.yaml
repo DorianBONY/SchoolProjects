@@ -1,0 +1,7 @@
+artifact_location: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/349130222965407410
+creation_time: 1688116892712
+experiment_id: '349130222965407410'
+last_update_time: 1688631040764
+lifecycle_stage: deleted
+name: Logistic Regression with Cross Validation
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/d8199a1204b244ef89aac441926c4a6d/artifacts
+end_time: 1686557839123
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: d8199a1204b244ef89aac441926c4a6d
+run_name: victorious-asp-6
+run_uuid: d8199a1204b244ef89aac441926c4a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557837685
+status: 3
+tags: []
+user_id: dorian

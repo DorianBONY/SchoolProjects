@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/99f3fc3d4f6c44fdbd614a591c128a09/artifacts
+end_time: 1686557843884
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 99f3fc3d4f6c44fdbd614a591c128a09
+run_name: bright-worm-87
+run_uuid: 99f3fc3d4f6c44fdbd614a591c128a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557842499
+status: 3
+tags: []
+user_id: dorian

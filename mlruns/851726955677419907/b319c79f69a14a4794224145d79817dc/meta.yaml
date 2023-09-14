@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/851726955677419907/b319c79f69a14a4794224145d79817dc/artifacts
+end_time: 1688116708588
+entry_point_name: ''
+experiment_id: '851726955677419907'
+lifecycle_stage: active
+run_id: b319c79f69a14a4794224145d79817dc
+run_name: Random Forest
+run_uuid: b319c79f69a14a4794224145d79817dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688116702496
+status: 3
+tags: []
+user_id: dorian

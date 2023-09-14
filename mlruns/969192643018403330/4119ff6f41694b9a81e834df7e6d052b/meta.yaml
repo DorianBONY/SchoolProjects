@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/4119ff6f41694b9a81e834df7e6d052b/artifacts
+end_time: 1686908135844
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 4119ff6f41694b9a81e834df7e6d052b
+run_name: honorable-ape-316
+run_uuid: 4119ff6f41694b9a81e834df7e6d052b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908134237
+status: 3
+tags: []
+user_id: dorian

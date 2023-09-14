@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/21188b340c09479bbc835a36b55e2f6b/artifacts
+end_time: 1686909071515
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 21188b340c09479bbc835a36b55e2f6b
+run_name: overjoyed-mole-146
+run_uuid: 21188b340c09479bbc835a36b55e2f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909070126
+status: 3
+tags: []
+user_id: dorian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/162d45c0290948d4af6903bbc8fcd017/artifacts
+end_time: 1686909437056
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 162d45c0290948d4af6903bbc8fcd017
+run_name: monumental-jay-525
+run_uuid: 162d45c0290948d4af6903bbc8fcd017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909435670
+status: 3
+tags: []
+user_id: dorian

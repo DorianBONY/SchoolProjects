@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/e7652d1c3afa4a0989414b147be0907a/artifacts
+end_time: 1687863428406
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: e7652d1c3afa4a0989414b147be0907a
+run_name: powerful-rook-887
+run_uuid: e7652d1c3afa4a0989414b147be0907a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687863409412
+status: 3
+tags: []
+user_id: dorian

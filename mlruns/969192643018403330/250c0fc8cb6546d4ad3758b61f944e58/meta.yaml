@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/250c0fc8cb6546d4ad3758b61f944e58/artifacts
+end_time: 1686908146966
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 250c0fc8cb6546d4ad3758b61f944e58
+run_name: dashing-cow-697
+run_uuid: 250c0fc8cb6546d4ad3758b61f944e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908145526
+status: 3
+tags: []
+user_id: dorian

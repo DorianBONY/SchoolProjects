@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/17e07201dd9746a883ad1aaa1a35cf90/artifacts
+end_time: 1686662697265
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 17e07201dd9746a883ad1aaa1a35cf90
+run_name: casual-hound-5
+run_uuid: 17e07201dd9746a883ad1aaa1a35cf90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686662695795
+status: 3
+tags: []
+user_id: dorian

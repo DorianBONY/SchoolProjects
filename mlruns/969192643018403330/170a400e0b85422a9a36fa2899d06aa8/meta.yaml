@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/170a400e0b85422a9a36fa2899d06aa8/artifacts
+end_time: 1686557837601
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 170a400e0b85422a9a36fa2899d06aa8
+run_name: unleashed-crab-203
+run_uuid: 170a400e0b85422a9a36fa2899d06aa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557836172
+status: 3
+tags: []
+user_id: dorian

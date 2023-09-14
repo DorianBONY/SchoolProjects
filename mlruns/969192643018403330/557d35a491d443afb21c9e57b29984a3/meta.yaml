@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/557d35a491d443afb21c9e57b29984a3/artifacts
+end_time: 1686908468739
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 557d35a491d443afb21c9e57b29984a3
+run_name: rebellious-hawk-427
+run_uuid: 557d35a491d443afb21c9e57b29984a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908467347
+status: 3
+tags: []
+user_id: dorian

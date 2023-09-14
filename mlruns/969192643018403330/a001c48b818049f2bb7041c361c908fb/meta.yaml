@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/a001c48b818049f2bb7041c361c908fb/artifacts
+end_time: 1686908191206
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: a001c48b818049f2bb7041c361c908fb
+run_name: unleashed-shad-417
+run_uuid: a001c48b818049f2bb7041c361c908fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908155923
+status: 3
+tags: []
+user_id: dorian

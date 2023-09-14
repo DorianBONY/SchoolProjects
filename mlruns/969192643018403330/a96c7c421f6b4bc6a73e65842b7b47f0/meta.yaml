@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/a96c7c421f6b4bc6a73e65842b7b47f0/artifacts
+end_time: 1686909582179
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: a96c7c421f6b4bc6a73e65842b7b47f0
+run_name: wise-fox-405
+run_uuid: a96c7c421f6b4bc6a73e65842b7b47f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909546972
+status: 3
+tags: []
+user_id: dorian

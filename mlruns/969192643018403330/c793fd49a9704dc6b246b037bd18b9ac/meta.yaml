@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/c793fd49a9704dc6b246b037bd18b9ac/artifacts
+end_time: 1686908462521
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: c793fd49a9704dc6b246b037bd18b9ac
+run_name: adorable-panda-225
+run_uuid: c793fd49a9704dc6b246b037bd18b9ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908461114
+status: 3
+tags: []
+user_id: dorian

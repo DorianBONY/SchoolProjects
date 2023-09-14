@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/e78167f83f134ba68ae3d9e47200d990/artifacts
+deleted_time: 1686558193903
+end_time: 1686557228903
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: deleted
+run_id: e78167f83f134ba68ae3d9e47200d990
+run_name: Decision Tree
+run_uuid: e78167f83f134ba68ae3d9e47200d990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557215927
+status: 3
+tags: []
+user_id: dorian

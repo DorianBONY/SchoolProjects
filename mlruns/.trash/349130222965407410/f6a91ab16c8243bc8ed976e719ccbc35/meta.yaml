@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/349130222965407410/f6a91ab16c8243bc8ed976e719ccbc35/artifacts
+deleted_time: 1688631040764
+end_time: 1688116902108
+entry_point_name: ''
+experiment_id: '349130222965407410'
+lifecycle_stage: deleted
+run_id: f6a91ab16c8243bc8ed976e719ccbc35
+run_name: Logistic Regression
+run_uuid: f6a91ab16c8243bc8ed976e719ccbc35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688116892772
+status: 3
+tags: []
+user_id: dorian

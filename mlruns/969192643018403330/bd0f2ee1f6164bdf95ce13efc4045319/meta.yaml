@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/bd0f2ee1f6164bdf95ce13efc4045319/artifacts
+end_time: 1686557788703
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: bd0f2ee1f6164bdf95ce13efc4045319
+run_name: sedate-seal-149
+run_uuid: bd0f2ee1f6164bdf95ce13efc4045319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686557787297
+status: 3
+tags: []
+user_id: dorian

@@ -1,0 +1,31 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.1
+mlflow_version: 2.3.2
+model_uuid: 6344e39bfb21443f9025c57c75b0f4fb
+run_id: d5dbf427f1fb44cba914e9b4dce3cca2
+signature:
+  inputs: '[{"name": "nb_period", "type": "double"}, {"name": "nic", "type": "double"},
+    {"name": "capital_amount", "type": "double"}, {"name": "code_greffe", "type":
+    "double"}, {"name": "nb_etablishment_actif", "type": "long"}, {"name": "pm_duration",
+    "type": "double"}, {"name": "postal_code", "type": "double"}, {"name": "turnover",
+    "type": "double"}, {"name": "fxGainLosses", "type": "double"}, {"name": "fxGainLosses2",
+    "type": "double"}, {"name": "judgements", "type": "double"}, {"name": "creation_year",
+    "type": "double"}, {"name": "start_date_year", "type": "double"}, {"name": "workforce_type",
+    "type": "long"}, {"name": "lei_registration_status_type", "type": "long"}, {"name":
+    "city_name_type", "type": "long"}, {"name": "city_code_type", "type": "long"},
+    {"name": "main_activity_type", "type": "long"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2023-06-16 10:06:06.713756'

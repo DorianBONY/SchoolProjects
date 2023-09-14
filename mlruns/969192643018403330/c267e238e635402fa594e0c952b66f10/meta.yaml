@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/c267e238e635402fa594e0c952b66f10/artifacts
+end_time: 1686909582179
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: c267e238e635402fa594e0c952b66f10
+run_name: gaudy-wolf-696
+run_uuid: c267e238e635402fa594e0c952b66f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909546972
+status: 3
+tags: []
+user_id: dorian

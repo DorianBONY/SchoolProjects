@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/1cb7fb74f10843f39754af150c389076/artifacts
+end_time: 1686909147970
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 1cb7fb74f10843f39754af150c389076
+run_name: casual-mare-52
+run_uuid: 1cb7fb74f10843f39754af150c389076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909146433
+status: 3
+tags: []
+user_id: dorian

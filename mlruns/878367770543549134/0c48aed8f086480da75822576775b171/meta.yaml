@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/878367770543549134/0c48aed8f086480da75822576775b171/artifacts
+end_time: 1688117745222
+entry_point_name: ''
+experiment_id: '878367770543549134'
+lifecycle_stage: active
+run_id: 0c48aed8f086480da75822576775b171
+run_name: popular-skink-133
+run_uuid: 0c48aed8f086480da75822576775b171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688117034746
+status: 3
+tags: []
+user_id: dorian

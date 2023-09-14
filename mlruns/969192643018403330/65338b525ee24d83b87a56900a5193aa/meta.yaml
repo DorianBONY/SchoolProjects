@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/65338b525ee24d83b87a56900a5193aa/artifacts
+end_time: 1686909764606
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 65338b525ee24d83b87a56900a5193aa
+run_name: judicious-foal-557
+run_uuid: 65338b525ee24d83b87a56900a5193aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909741818
+status: 3
+tags: []
+user_id: dorian

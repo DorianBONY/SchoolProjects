@@ -1,0 +1,16 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/558447240227738391/7f7c915f4ec24f14bcf5f163e95a129a/artifacts
+deleted_time: 1686557982537
+end_time: 1685354768038
+entry_point_name: ''
+experiment_id: '558447240227738391'
+lifecycle_stage: deleted
+run_id: 7f7c915f4ec24f14bcf5f163e95a129a
+run_name: glamorous-calf-74
+run_uuid: 7f7c915f4ec24f14bcf5f163e95a129a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685354762470
+status: 3
+tags: []
+user_id: dorian

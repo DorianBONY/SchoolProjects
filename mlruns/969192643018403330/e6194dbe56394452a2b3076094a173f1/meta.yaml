@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/e6194dbe56394452a2b3076094a173f1/artifacts
+end_time: 1686908528563
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: e6194dbe56394452a2b3076094a173f1
+run_name: big-snail-450
+run_uuid: e6194dbe56394452a2b3076094a173f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908527170
+status: 3
+tags: []
+user_id: dorian

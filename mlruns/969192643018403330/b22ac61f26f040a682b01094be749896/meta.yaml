@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/b22ac61f26f040a682b01094be749896/artifacts
+end_time: 1686662686186
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: b22ac61f26f040a682b01094be749896
+run_name: puzzled-panda-594
+run_uuid: b22ac61f26f040a682b01094be749896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686662684747
+status: 3
+tags: []
+user_id: dorian

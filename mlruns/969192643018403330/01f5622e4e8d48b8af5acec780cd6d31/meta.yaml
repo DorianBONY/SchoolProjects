@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/01f5622e4e8d48b8af5acec780cd6d31/artifacts
+end_time: 1686662687713
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 01f5622e4e8d48b8af5acec780cd6d31
+run_name: exultant-worm-252
+run_uuid: 01f5622e4e8d48b8af5acec780cd6d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686662686307
+status: 3
+tags: []
+user_id: dorian

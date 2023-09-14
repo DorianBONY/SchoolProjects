@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/53308eaaf13f43b68c7e93b01feba01d/artifacts
+end_time: 1686908143812
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 53308eaaf13f43b68c7e93b01feba01d
+run_name: resilient-sow-610
+run_uuid: 53308eaaf13f43b68c7e93b01feba01d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908142426
+status: 3
+tags: []
+user_id: dorian

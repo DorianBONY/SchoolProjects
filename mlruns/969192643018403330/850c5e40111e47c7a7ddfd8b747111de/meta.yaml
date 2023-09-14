@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/850c5e40111e47c7a7ddfd8b747111de/artifacts
+end_time: 1686909074615
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 850c5e40111e47c7a7ddfd8b747111de
+run_name: sneaky-rook-38
+run_uuid: 850c5e40111e47c7a7ddfd8b747111de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686909073185
+status: 3
+tags: []
+user_id: dorian

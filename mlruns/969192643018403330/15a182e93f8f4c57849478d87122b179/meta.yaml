@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/15a182e93f8f4c57849478d87122b179/artifacts
+end_time: 1687863428406
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: 15a182e93f8f4c57849478d87122b179
+run_name: angry-crow-27
+run_uuid: 15a182e93f8f4c57849478d87122b179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687863409412
+status: 3
+tags: []
+user_id: dorian

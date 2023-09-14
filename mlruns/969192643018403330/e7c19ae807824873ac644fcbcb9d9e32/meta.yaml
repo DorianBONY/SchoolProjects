@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dorian/Python%20Linux/Projets%20Finaux/E1/mlruns/969192643018403330/e7c19ae807824873ac644fcbcb9d9e32/artifacts
+end_time: 1686908139075
+entry_point_name: ''
+experiment_id: '969192643018403330'
+lifecycle_stage: active
+run_id: e7c19ae807824873ac644fcbcb9d9e32
+run_name: loud-dolphin-561
+run_uuid: e7c19ae807824873ac644fcbcb9d9e32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686908137637
+status: 3
+tags: []
+user_id: dorian
