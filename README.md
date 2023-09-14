@@ -1,3 +1,3 @@
-# Projet-Scoring-IA
+# School Projects
 
-The notebook used to make data preparation, and the dataset were deleted due to GDPR
+This repository contains all projects I worked on at school
